@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1562244221 source:d:\dhuo creative\c++\test\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+
+1562231552 source:d:\dhuo creative\c++\pertemuan 6\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
